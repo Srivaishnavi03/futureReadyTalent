@@ -8,7 +8,7 @@ PROJECT LINK (GIT HUB REPOSITORY)
 https://github.com/Srivaishnavi03/futureReadyTalent
 
 PROJECT DEMO URL:
-https://wonderful-sea-031d8a31
+https://wonderful-sea-031d8a310.2.azurestaticapps.net/
 
 PROJECT DEMO VIDEO LINK:
 https://youtu.be/4NuB0EG72ek
